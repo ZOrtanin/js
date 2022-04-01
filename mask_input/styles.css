@@ -1,0 +1,22 @@
+body {
+  background-color: #c0d6e4;
+}
+
+.wrapper_input{
+  color: white;
+  padding: 1em;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+}
+
+input{
+  font-size: 40px;
+  font-weight: bold;
+  width: 10em;
+  padding: 13px;
+  border: 0;
+  border-radius: 9px;
+}
